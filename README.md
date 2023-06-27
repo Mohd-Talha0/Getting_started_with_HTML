@@ -1,2 +1,2 @@
-# Getting_started_with_HTML
+# Getting_started_with_web_dev
 Assignment_week_1
